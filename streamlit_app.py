@@ -11,7 +11,7 @@ st.set_page_config(
 
 alt.themes.enable("dark")
 
-df = pd.read_csv('data/data_exit_polls.csv')
+df = pd.read_csv('data_exit_polls.csv')
 
 #######################
 with st.sidebar:
