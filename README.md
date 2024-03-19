@@ -1,2 +1,3 @@
-# viz_exit_polls_elections_2024
+# Visualizing exit polls from elections 2024 in Russia (voting abroad)
+
 Streamlit app to visualize exit poll results for president "elections" 2024 in Russia
